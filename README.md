@@ -42,6 +42,14 @@
 
 [查看原图](whale-girl-ukiyo-e.png) · [查看完整提示词](whale-girl-ukiyo-e.md)
 
+## 鲸鱼娘 · 彩绘玻璃风格
+
+以黑色铅条分隔蓝、青、金色玻璃，将鲸鱼娘、海浪与贝壳纹样融入透光的装饰窗画。
+
+![鲸鱼娘 · 彩绘玻璃风格](whale-girl-stained-glass.png)
+
+[查看原图](whale-girl-stained-glass.png) · [查看完整提示词](whale-girl-stained-glass.md)
+
 ## 关于创作
 
 本仓库收录个人构思、选择与迭代指导下完成的作品，部分创作使用 AI 辅助。随着作品积累，会逐步加入更多主题与表现手法。
