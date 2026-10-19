@@ -26,6 +26,14 @@
 
 [查看原图](whale-girl-constructivist.png) · [查看完整提示词](whale-girl-constructivist.md)
 
+## 鲸鱼娘 · 新艺术风格
+
+流动的蓝发与鲸尾融入花卉、星象和海景装饰，以柔和蓝色与金色线条构成复古画框。
+
+![鲸鱼娘 · 新艺术风格](whale-girl-art-nouveau.png)
+
+[查看原图](whale-girl-art-nouveau.png) · [查看完整提示词](whale-girl-art-nouveau.md)
+
 ## 关于创作
 
 本仓库收录个人构思、选择与迭代指导下完成的作品，部分创作使用 AI 辅助。随着作品积累，会逐步加入更多主题与表现手法。
