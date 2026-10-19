@@ -18,8 +18,16 @@
 
 [查看原图](whale-girl-dislocated.png)
 
+## 鲸鱼娘 · 构成主义海报
+
+红、黑、米白与蓝色交织，以斜线、圆形和几何飘带构成充满动势的画面。
+
+![鲸鱼娘 · 构成主义海报](whale-girl-constructivist.png)
+
+[查看原图](whale-girl-constructivist.png) · [查看完整提示词](whale-girl-constructivist.md)
+
 ## 关于创作
 
 本仓库收录个人构思、选择与迭代指导下完成的作品，部分创作使用 AI 辅助。随着作品积累，会逐步加入更多主题与表现手法。
 
-以上两幅作品的角色视觉参考：[TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whale-girl)。鲸鱼娘系列为个人二创，与 DeepSeek 官方无关联。
+鲸鱼娘系列的角色视觉参考：[TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whale-girl)。鲸鱼娘系列为个人二创，与 DeepSeek 官方无关联。
