@@ -34,6 +34,14 @@
 
 [查看原图](whale-girl-art-nouveau.png) · [查看完整提示词](whale-girl-art-nouveau.md)
 
+## 鲸鱼娘 · 浮世绘风格
+
+以靛蓝、米白与赭色描绘鲸鱼娘，卷曲的海浪、装饰云纹与细线轮廓呈现复古木版画意趣。
+
+![鲸鱼娘 · 浮世绘风格](whale-girl-ukiyo-e.png)
+
+[查看原图](whale-girl-ukiyo-e.png) · [查看完整提示词](whale-girl-ukiyo-e.md)
+
 ## 关于创作
 
 本仓库收录个人构思、选择与迭代指导下完成的作品，部分创作使用 AI 辅助。随着作品积累，会逐步加入更多主题与表现手法。
